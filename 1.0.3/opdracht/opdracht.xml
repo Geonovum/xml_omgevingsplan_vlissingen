@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lvbb:publicatieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+   <lvbb:idLevering>OPVLI001</lvbb:idLevering>
+   <lvbb:idBevoegdGezag>00000001001710369000</lvbb:idBevoegdGezag>
+   <lvbb:idAanleveraar>00000001001710369000</lvbb:idAanleveraar>
+   <lvbb:publicatie>OPVLI001.xml</lvbb:publicatie>
+   <lvbb:datumBekendmaking>2020-12-01</lvbb:datumBekendmaking>
+</lvbb:publicatieOpdracht>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             schemaversie="1.0.3">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0718/2020/geluidproductieplafond</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-10-13</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0718/2020/OPVLI001/nld@2020-10-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>geluidproductieplafond.gml</bestandsnaam>
+                  <hash>36e833643e0f7c11c29054cf01ee1ad2367413c66c429e74c5c317555b5a4425c07bcb9df342cc3939d0f71da6754552c2929fd5189204ac448ede5328256f2c</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0718</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>referentiepunten scheepswerf ksg</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-10-13</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>referentiepunten scheepswerf ksg</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
