@@ -10,6 +10,8 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0718/2020/maximumaantalbouwlagen</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0718/2020/maximumaantalbouwlagen/nld@2020-08-19;3520</geo:FRBRExpression>
+      <geo:eenheidlabel>bouwlagen</geo:eenheidlabel>
+      <geo:eenheidID>Bouwlagen</geo:eenheidID>
       <geo:normlabel>Maximum aantal Bouwlagen</geo:normlabel>
       <geo:normID>maximum aantal bouwlagen</geo:normID>
       <geo:locaties>

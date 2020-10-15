@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/geluidproductieplafond</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/vlissingenscheldewijk</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/vlissingenscheldewijk/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>geluidproductieplafond.gml</bestandsnaam>
-                  <hash>36e833643e0f7c11c29054cf01ee1ad2367413c66c429e74c5c317555b5a4425c07bcb9df342cc3939d0f71da6754552c2929fd5189204ac448ede5328256f2c</hash>
+                  <bestandsnaam>vlissingenscheldewijk.gml</bestandsnaam>
+                  <hash>ced3c2b046b5804818af2135ad25d9367799b4164f3b6d99adaf483f5923419d4cb6cdd31c106dbfcc88eb69a4f4a56af414542de3d7f7a19550f5d3be59ab55</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>referentiepunten scheepswerf ksg</alternatieveTitel>
+            <alternatieveTitel>vlissingen - scheldewijk</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/vlissingenscheldewijk</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>referentiepunten scheepswerf ksg</naamInformatieObject>
+         <naamInformatieObject>vlissingen - scheldewijk</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

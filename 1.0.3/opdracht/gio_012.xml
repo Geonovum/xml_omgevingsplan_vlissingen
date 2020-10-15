@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/rustigwoongebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/rustigwoongebied/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/gemengdgebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/gemengdgebied/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>rustigwoongebied.gml</bestandsnaam>
-                  <hash>586a1869fcae4d641c8758be1f4efc9ce8756cb125e8548cb9f7ba6ff5b2866c6cdd15984a98a76de31765582103d5b1f95b67ecf41e22d5d8239d800bbee1e6</hash>
+                  <bestandsnaam>gemengdgebied.gml</bestandsnaam>
+                  <hash>52e6ec37ee4d14d0e8d8c16f9ff507f407a8b0cb53237e219a7bda86e905c364beaea45b9c478834dfbedf45a8de98b23e7fac9eae9693eb31b778e33c5775bd</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>rustig woongebied</alternatieveTitel>
+            <alternatieveTitel>gemengd gebied</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/rustigwoongebied/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/gemengdgebied</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>rustig woongebied</naamInformatieObject>
+         <naamInformatieObject>gemengd gebied</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

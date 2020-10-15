@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/grenswaargeluid55</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/grenswaargeluid55/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/grenswaargeluid58</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/grenswaargeluid58/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>grenswaargeluid55.gml</bestandsnaam>
-                  <hash>4794aad8bc030fbfddf161069789188364d29fc62ed2086b273d7c9d5884e4c048197e518a0b7797f1b4fbfab76935a9da8cea0b77d049a19a089ab0bda84442</hash>
+                  <bestandsnaam>grenswaargeluid58.gml</bestandsnaam>
+                  <hash>2fc6c14b9437e445f6502f322577aaf7a79a9600304a8ee3c65a5c0b469c76bc84e5ddffccc887bc32cb0bfe5678e4bf19de5cdf8875fba9492345092ca3ecf0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>grenswaarde geluidaandachtsggebied 55 lden/45lnight</alternatieveTitel>
+            <alternatieveTitel>grenswaarde geluidaandachtsggebied 58 lden/45lnight</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/grenswaargeluid55/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/grenswaargeluid58</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>grenswaarde geluidaandachtsggebied 55 lden/45lnight</naamInformatieObject>
+         <naamInformatieObject>grenswaarde geluidaandachtsggebied 58 lden/45lnight</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

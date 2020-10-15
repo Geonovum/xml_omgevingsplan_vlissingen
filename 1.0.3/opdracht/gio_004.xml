@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/timmerplein</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/timmerplein/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/industrieterrein</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/industrieterrein/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>timmerplein.gml</bestandsnaam>
-                  <hash>9027601a583a7a4c4a79bb535f6176e223bc6d4298138b64c1be3d221b34ce2f9fecd5558b51b4123c98bcc748f328bb2d258cdff9b144c0c6317e21a0f24d0e</hash>
+                  <bestandsnaam>industrieterrein.gml</bestandsnaam>
+                  <hash>1953938b35a4073ce6228cec1eeaa17f01b8c5399ed0de8baac869cb707384fcb0e69d705897b69b36c673a875162c216f8a20d67e3f86c44594c5d8e08c734a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>vlissingen - timmerplein</alternatieveTitel>
+            <alternatieveTitel>industrieterrein</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/timmerplein/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/industrieterrein</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>vlissingen - timmerplein</naamInformatieObject>
+         <naamInformatieObject>industrieterrein</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

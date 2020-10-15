@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/industrieterrein</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/industrieterrein/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/geluidsaandachtsgebiedindustrie</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/geluidsaandachtsgebiedindustrie/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>industrieterrein.gml</bestandsnaam>
-                  <hash>1953938b35a4073ce6228cec1eeaa17f01b8c5399ed0de8baac869cb707384fcb0e69d705897b69b36c673a875162c216f8a20d67e3f86c44594c5d8e08c734a</hash>
+                  <bestandsnaam>geluidsaandachtsgebiedindustrie.gml</bestandsnaam>
+                  <hash>9dc5ca322897101767300fac91a0188ce806816dd46d3e485d37acb92049fcc9ee17fa11c8d4afdd00890e8894400aace34836866119ffdbddaa0e1588b28a88</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>industrieterrein</alternatieveTitel>
+            <alternatieveTitel>geluidaandachtsgebied industrie</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/industrieterrein/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/geluidsaandachtsgebiedindustrie</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>industrieterrein</naamInformatieObject>
+         <naamInformatieObject>geluidaandachtsgebied industrie</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

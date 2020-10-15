@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/windaandachtsgebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/windaandachtsgebied/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/maximumaantalbouwlagen</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/maximumaantalbouwlagen/nld@2020-08-19;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>windaandachtsgebied.gml</bestandsnaam>
-                  <hash>2804c2e2aea6eea5032f50914caff947c05e82fd5300aecbd1cbe83b904d35fa17028546c3d1e2b6095381c9847d252463df6ccabf82c6f7668d48e1db7e717b</hash>
+                  <bestandsnaam>maximumaantalbouwlagen.gml</bestandsnaam>
+                  <hash>320869e1898c07a1375a821f86c2857041adf73721bfe75f7db1038e42f827461d5893743007ce80d92d3b6f207d2681d2ac34957eb45536cb0ae40d2c60ec04</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>windaandachtsgebied</alternatieveTitel>
+            <alternatieveTitel>maximum aantal bouwlagen</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/windaandachtsgebied/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/maximumaantalbouwlagen</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>windaandachtsgebied</naamInformatieObject>
+         <naamInformatieObject>maximum aantal bouwlagen</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

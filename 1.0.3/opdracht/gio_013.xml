@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/gemengdgebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/gemengdgebied/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/timmerfabriek</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/timmerfabriek/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>gemengdgebied.gml</bestandsnaam>
-                  <hash>52e6ec37ee4d14d0e8d8c16f9ff507f407a8b0cb53237e219a7bda86e905c364beaea45b9c478834dfbedf45a8de98b23e7fac9eae9693eb31b778e33c5775bd</hash>
+                  <bestandsnaam>timmerfabriek.gml</bestandsnaam>
+                  <hash>6618a9eb1ee96516304614deec51c3588b5bb4bd0ff4f1c4908f4d078042f53d1b8514d1f0bcb62c7249fd9915b22103bbf90b635bc6964b8ecba82eb593682c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>gemengd gebied</alternatieveTitel>
+            <alternatieveTitel>timmerfabriek</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/gemengdgebied/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/timmerfabriek</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>gemengd gebied</naamInformatieObject>
+         <naamInformatieObject>timmerfabriek</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

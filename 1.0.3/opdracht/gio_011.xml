@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0718/2020/scheepswerfksg</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/scheepswerfksg/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0718/2020/rustigwoongebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/rustigwoongebied/nld@2020-10-13</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>scheepswerfksg.gml</bestandsnaam>
-                  <hash>0d13af142c6f6b14fbc91a4edfea4b9f7cd15bd0a99b4ce71e96ffdd4f7482e3d29b84dafc50e0921840e3ff69a5286147f32881ce05c191dbb36dd7eb11c6c7</hash>
+                  <bestandsnaam>rustigwoongebied.gml</bestandsnaam>
+                  <hash>586a1869fcae4d641c8758be1f4efc9ce8756cb125e8548cb9f7ba6ff5b2866c6cdd15984a98a76de31765582103d5b1f95b67ecf41e22d5d8239d800bbee1e6</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0718</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0718</maker>
          <alternatieveTitels>
-            <alternatieveTitel>scheepswerf ksg</alternatieveTitel>
+            <alternatieveTitel>rustig woongebied</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0718/2020/scheepswerfksg/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0718/2020/rustigwoongebied</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>scheepswerf ksg</naamInformatieObject>
+         <naamInformatieObject>rustig woongebied</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
