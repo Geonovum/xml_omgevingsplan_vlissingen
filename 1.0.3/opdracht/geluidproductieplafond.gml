@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0718/2020/gpp</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0718/2020/gpp/nld@2020-08-19;3520</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-08-19;3520</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>
