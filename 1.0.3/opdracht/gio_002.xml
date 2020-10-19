@@ -4,7 +4,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0718/2020/vlissingenscheldewijk</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0718/2020/vlissingenscheldewijk/nld@2020-10-13</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/gm0718/2020/vlissingenscheldewijk/nld@2020-08-19;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

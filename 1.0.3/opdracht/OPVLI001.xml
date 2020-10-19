@@ -25,7 +25,7 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/gm0718/2020/gpp/nld@2020-08-19;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0718/2020/vlissingenscheldewijk/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0718/2020/timmerplein/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0718/2020/industrieterrein/nld@2020-08-19;3520</informatieobjectRef>
@@ -74,7 +74,7 @@
                <doelen>
                   <doel>/join/id/proces/gm0718/2020/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/gm0718/2020/gpp/nld@2020-08-19;3520</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-08-19;3520</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
@@ -2210,7 +2210,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                        wId="gm0718_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                       ref="/join/id/regdata/gm0718/2020/gpp/nld@2020-08-19;3520">/join/id/regdata/gm0718/2020/gpp/nld@2020-08-19;3520</ExtIoRef>
+                                       ref="/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-08-19;3520">/join/id/regdata/gm0718/2020/geluidproductieplafond/nld@2020-08-19;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
