@@ -36,7 +36,7 @@
                 </geo:Locatie>
                 <geo:Locatie>
                     <geo:geometrie>
-                        <basisgeo:Geometrie gml:id="78EFBD2D-FA60-4A6A-B83D-2C5991CF341E-xx">
+                        <basisgeo:Geometrie gml:id="id-78EFBD2D-FA60-4A6A-B83D-2C5991CF341E-xx">
                             <basisgeo:id>78EFBD2D-FA60-4A6A-B83D-2C5991CF341E</basisgeo:id>
                             <basisgeo:geometrie>
                                <gml:Surface gml:id="id-78EFBD2D-FA60-4A6A-B83D-2C5991CF341E" srsName="urn:ogc:def:crs:EPSG::28992">
