@@ -31,6 +31,7 @@
          <naam>owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
+         <objecttype>Omgevingswaarderegel</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>
