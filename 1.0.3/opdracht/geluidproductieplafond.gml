@@ -13,8 +13,8 @@
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>
-            <basisgeo:Geometrie gml:id="id.8c23f796cdcd4561a4f8ae98bd8f1212-xx">
-              <basisgeo:id>8c23f796cdcd4561a4f8ae98bd8f1212</basisgeo:id>
+            <basisgeo:Geometrie gml:id="id.8c23f796-cdcd-4561-a4f8-ae98bd8f1212-xx">
+              <basisgeo:id>8c23f796-cdcd-4561-a4f8-ae98bd8f1212</basisgeo:id>
               <basisgeo:geometrie>
                  <gml:Surface gml:id="id.8c23f796-cdcd-4561-a4f8-ae98bd8f1212" srsName="urn:ogc:def:crs:EPSG::28992">
                    <gml:patches>
